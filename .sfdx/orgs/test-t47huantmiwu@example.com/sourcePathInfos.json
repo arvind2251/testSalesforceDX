@@ -1,0 +1,272 @@
+[
+    [
+        "C:\\Users\\Dell\\geolocation\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Dell\\geolocation\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552879153959,
+            "changeTime": 1552879153959,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Dell\\geolocation\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Dell\\geolocation\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552879153959,
+            "changeTime": 1552879153959,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Dell\\geolocation\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Dell\\geolocation\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552880259236,
+            "changeTime": 1552880259236,
+            "contentHash": "a99b08e3d2d6efd88c4b56f5f01b594674d06db0"
+        }
+    ],
+    [
+        "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552879153959,
+            "changeTime": 1552879153959,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552879384421,
+            "changeTime": 1552879384421,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Dell\\geolocation",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Dell\\geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552879331591,
+            "changeTime": 1552879331591,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\accountCustom__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\accountCustom__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 377,
+            "modifiedTime": 1552880259174,
+            "changeTime": 1552880259174,
+            "contentHash": "2033ebffed58595c73265c8b64c90e465525f15a"
+        }
+    ],
+    [
+        "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9587,
+            "modifiedTime": 1552880259189,
+            "changeTime": 1552880259189,
+            "contentHash": "c5b16f1f4a567cf77c9bdf5d98bff48909ec7325"
+        }
+    ],
+    [
+        "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9587,
+            "modifiedTime": 1552880259205,
+            "changeTime": 1552880259205,
+            "contentHash": "a715aff912675d475a14414c950d87ab8b1afea1"
+        }
+    ],
+    [
+        "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9635,
+            "modifiedTime": 1552880259221,
+            "changeTime": 1552880259221,
+            "contentHash": "94f1e40967ac19e0256af7af0f95658ba029a438"
+        }
+    ],
+    [
+        "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9635,
+            "modifiedTime": 1552880259236,
+            "changeTime": 1552880259236,
+            "contentHash": "347c35570fc18614c01a9fe7e97445863eb3a872"
+        }
+    ],
+    [
+        "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4718,
+            "modifiedTime": 1552880259236,
+            "changeTime": 1552880259236,
+            "contentHash": "8304d6b39194b1a8dbb810c8b4c715ff7ce0945c"
+        }
+    ],
+    [
+        "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5054,
+            "modifiedTime": 1552880259236,
+            "changeTime": 1552880259236,
+            "contentHash": "eaf6d249c2014db3045977f03ca4f6ed312898ee"
+        }
+    ],
+    [
+        "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4714,
+            "modifiedTime": 1552880259252,
+            "changeTime": 1552880259252,
+            "contentHash": "340e326521745bed35c8466a9debd93ca261b463"
+        }
+    ],
+    [
+        "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18845,
+            "modifiedTime": 1552880259268,
+            "changeTime": 1552880259268,
+            "contentHash": "4551288bf30c07d81fca37c1882dc139dc57009f"
+        }
+    ],
+    [
+        "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552880259174,
+            "changeTime": 1552880259174,
+            "contentHash": "7710c8f7c10c9d0772568629f1a3bc1b6ee76924"
+        }
+    ],
+    [
+        "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552880259174,
+            "changeTime": 1552880259174,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552880259174,
+            "changeTime": 1552880259174,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552880259221,
+            "changeTime": 1552880259221,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Dell\\geolocation\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552880259268,
+            "changeTime": 1552880259268,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
